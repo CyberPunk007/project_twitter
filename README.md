@@ -66,3 +66,20 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+## Progress report for the submission
+
+## Day 1
+added headers and text area
+
+## Day 2
+issues with the text area probably uncompatibilty arose due to both antd and react-bootstrap fixed by using only antd
+
+## Day 3
+added date and time picker widget from antd with date and time disabled. (user now can't select the date and time in the past --applicable to current day as well if time has passed.)
+## Day 4
+Checking compatibility and trying to implement redux store
+
+
+
